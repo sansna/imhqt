@@ -1,0 +1,9 @@
+properties:
+    sder, total, unsent, rate, sentOmo, unsentOmo, button
+    lpstr int     int   double  double   double     pb
+
+unsent properties:
+    id, scner, sctime, rctime, omo
+    char char  char    char    double
+
+
